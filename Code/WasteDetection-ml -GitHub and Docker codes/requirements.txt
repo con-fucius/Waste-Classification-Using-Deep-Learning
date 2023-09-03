@@ -1,0 +1,7 @@
+torch
+fastai
+fastapi[all]
+jupyterlab
+asyncio
+aiohttp
+aiofiles
